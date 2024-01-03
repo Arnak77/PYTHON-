@@ -1,0 +1,36 @@
+variable || identifier || object()
+ 
+slicing()
+List()
+Tuple()
+SET()
+DICTIONARY()
+introduce to ID() 
+
+DATA TYPES & DATA STRUCTURES-->
+1- NUMERIC || 2-LIST || 3-TUPLE || 4-SET || 5-STRING || 6-RANGE ||
+
+operator
+1- ARITHMETIC OPERATOR ( + , -, *, /, %, %%, **, ^ 2- ASSIGNMEN OPERATOR (=) 3- RELATIONAL OPERATOR 4- LOGICAL OPERATOR 5- UNARY OPERATOR
+
+LOGICAL OPERATOR
+
+Number system coverstion (bit-binary digit)
+
+BITWISE OPERATOR
+WE HAVE 6 OPERATORS COMPLEMENT ( ~ ) || AND ( & ) || OR ( | ) || XOR ( ^ ) || LEFT SHIFT ( << ) || RIGHT SHIFT ( >> )
+
+import math function
+
+user input function in python || command line input
+
+LOOPS()
+
+BREAK || CONTINUE || PASS BREAK STATEMNT
+
+For|Else in python() prime number()
+
+Array in python()   reating array using numpy()
+
+
+
